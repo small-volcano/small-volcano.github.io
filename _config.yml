@@ -1,12 +1,12 @@
 theme: jekyll-theme-tactile
 
 # Site settings
-title: Wenbo Huang
-email: wenbohuang1002@outlook.com
-description: Homepage of Wenbo Huang
+title: Can Bu
+email: bucanya@163.com
+description: Homepage of Can Bu
 baseurl: ""
-url: "https://wenbohuang1002.github.io/"
-repository: "wenbohuang1002/wenbohuang1002.github.io"
+url: "https://small-volcano.github.io/"
+repository: "small-volcano/small-volcano.github.io"
 
 include:
   - .htaccess
