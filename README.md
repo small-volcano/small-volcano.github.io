@@ -1,7 +1,7 @@
 ### Hi there 👋
-[Wenbo Huang's Homepage](https://wenbohuang1002.github.io/)
+[Can Bu's Homepage](https://small-volcano.github.io/)
 <!--
-**wenbohuang1002/wenbohuang1002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**small-volcano/small-volcano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
