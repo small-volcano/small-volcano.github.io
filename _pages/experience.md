@@ -19,21 +19,24 @@ permalink: /experience
 
 ### Education 
 
-<a href="http://www.seu.edu.cn/"> <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/logo/seu.jpg" width="12%"  /></a>
+<a href="http://www.njnu.edu.cn/"> <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/logo/nnu.jpg" width="12%"  /></a>
 
 * <em>(September &rsquo; 2022 &ndash; Now )</em>
-    - <strong>Southeast University</strong>, Nanjing, Jiangsu, China
-	- Ph.D degree in Computer Science and Technology (Artificial Intelligence)
-	- Advisor: <a href="http://palm.seu.edu.cn/hxue/">Prof. Hui Xue</a>
+    - <strong>Nanjing Normal University</strong>, Nanjing, Jiangsu, China
+	- Master of control engineering
+	- Advisor: <a href="http://leizhangnjnu.github.io">A.P. Lei Zhang</a>
 
 <br>
 
-<a href="http://www.njnu.edu.cn/"> <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/logo/nnu.jpg" width="12%"  /></a>
+<a href="http://www.hyit.edu.cn/"> <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/logo/hyit.jpg" width="12%"  /></a>
 
-* <em>(September &rsquo; 2019 &ndash; June &rsquo; 2022 )</em>
-    - <strong>Nanjing Normal University</strong>, Nanjing, Jiangsu, China
-	- Master degree in Control Science and Engineering (Pattern Recognition and Intelligent System)
-	- Advisor: <a href="http://leizhangnjnu.github.io">A.P. Lei Zhang</a>
+* <em>(September &rsquo; 2019 &ndash; June &rsquo; 2021 )</em>
+    
+	- <strong>Huaiyin Institute of Technology</strong>, Huaian, Jiangsu, China
+	
+	- Bachelor of mechanical and Electronic Engineering
+	
+	  
 
 <br>
 
