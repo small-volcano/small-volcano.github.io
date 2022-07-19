@@ -1,7 +1,7 @@
 ---
-title: "Wenbo Huang (黄文博) - Homepage"
+title: "Can Bu (卜灿) - Homepage"
 layout: gridlay
-excerpt: "Wenbo Huang"
+excerpt: "Can Bu"
 sitemap: false
 permalink: /
 ---
@@ -12,7 +12,7 @@ permalink: /
 <div class="col-sm-8">
 
 ### **About <font color="#00d1ff">Me</font>**
-<!-- <a href ="https://wenbohuang1002.github.io/allnews"> <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/Eagle.png" class="img-responsive" width="35%"  /> </a> -->
+<!-- <a href ="https://small-volcano.github.io/allnews"> <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/Eagle.png" class="img-responsive" width="35%"  /> </a> -->
 I come from Nanjing, Jiangsu, China, where is known as 'Capital of Six Dynasties' and 'City of Stone'. I was a <del>script kiddie</del> and received the 
 B.S. degree from <a href="http://www.njtech.edu.cn/">Nanjing Tech University</a>, Nanjing, China, in 2019. I received the M.S degree with the supervision by <a href="http://leizhangnjnu.github.io">A.P Lei Zhang</a> 
 from <a href="http://www.njnu.edu.cn/">Nanjing Normal University</a>, Nanjing, China, in 2022. Now I am a Ph.D student and pursuing my degree in
@@ -25,7 +25,7 @@ Everyone can find the papers they need <a href="https://sci-hub.st/">here [Sci-H
 <br>
 
 ### **Notice**
-在尝试联系我前请阅读这个<a href="https://wenbohuang1002.github.io/document">文档</a>。
+在尝试联系我前请阅读这个<a href="https://small-volcano.io/document">文档</a>。
 <!-- <del>Select the part inside the arrow to reveal the hidden content.</del> -->
 
 <!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?w=128&d=Xit1o4P9tPO4V5F-vf13Il6mKflR-sERYSPiKcWoLcM"></script> -->
