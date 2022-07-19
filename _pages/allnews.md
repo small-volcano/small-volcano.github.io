@@ -1,5 +1,5 @@
 ---
-title: "Wenbo Huang (黄文博) - News"
+title: "Can Bu (卜灿) - News"
 layout: gridlay
 excerpt: "Wenbo Huang"
 sitemap: false
