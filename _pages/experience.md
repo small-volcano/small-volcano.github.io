@@ -1,14 +1,14 @@
 ---
-title: "Wenbo Huang (黄文博) - Experience"
+title: "Can Bu (卜灿) - Experience"
 layout: gridlay
-excerpt: "Wenbo Huang: Experience"
+excerpt: "Can Bu : Experience"
 sitemap: false
 permalink: /experience
 ---
 <div class="col-sm-4" align="right" style="display:table-cell; vertical-align:middle; text-align:center">
 
   <ul style="overflow: hidden">
-  <a href ="https://wenbohuang1002.github.io"> <img align="right" src="{{ site.url }}{{ site.baseurl }}/images/admin.jpg" class="img-responsive" width="100%" /></a>
+  <a href ="https://canbu.github.io"> <img align="right" src="{{ site.url }}{{ site.baseurl }}/images/admin.jpg" class="img-responsive" width="100%" /></a>
   </ul>
   Photoed at NJTECH in 2018<br>
 </div>
@@ -37,12 +37,10 @@ permalink: /experience
 
 <br>
 
-<a href="http://www.njtech.edu.cn/"> <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/logo/njtech.jpg" width="12%"  /></a>
+<a href="http://www.njitt.edu.cn/"> <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/logo/njitt.jpg" width="12%"  /></a>
 
-* <em>(September &rsquo; 2015 &ndash; June &rsquo; 2019 )</em>
-    - <strong>Nanjing Tech University</strong>, Nanjing, Jiangsu, China
-	- Bachelor degree in Automation
-	- Advisor: <a href="http://eecs.njtech.edu.cn/info/1132/3462.htm">A.P. Xinguo Wang</a>
+* <em>(September &rsquo; 2016 &ndash; June &rsquo; 2019 )</em>
+    - <strong>Nanjing Communications institute of Technology</strong>, Nanjing, Jiangsu, China
 
 <br>
 
