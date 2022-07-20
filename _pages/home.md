@@ -13,7 +13,7 @@ permalink: /
 
 ### **About <font color="#00d1ff">Me</font>**
 <!-- <a href ="https://small-volcano.github.io/allnews"> <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/Eagle.png" class="img-responsive" width="35%"  /> </a> -->
-I come from Nanjing, Jiangsu, China, where is known as 'Capital of Six Dynasties' and 'City of Stone'. I was a <del>script kiddie</del> and received the 
+I come from Xuzhou, Jiangsu, China, where is known as 'Capital of Six Dynasties' and 'City of Stone'. I was a <del>script kiddie</del> and received the 
 B.S. degree from <a href="http://www.njtech.edu.cn/">Nanjing Tech University</a>, Nanjing, China, in 2019. I received the M.S degree with the supervision by <a href="http://leizhangnjnu.github.io">A.P Lei Zhang</a> 
 from <a href="http://www.njnu.edu.cn/">Nanjing Normal University</a>, Nanjing, China, in 2022. Now I am a Ph.D student and pursuing my degree in
 <a href="http://palm.seu.edu.cn/">PAttern Learning and Mining (PALM) Lab</a>, <a href="https://cse.seu.edu.cn/">School of Computer Science and Engineering</a>, <a href="https://www.seu.edu.cn/">Southeast University</a>,
@@ -83,12 +83,11 @@ CV was last updated on June 30, 2022.<br>
 
   <!-- <br clear="all" /> -->
 
-  Wenbo Huang (黄文博)<br>  
-  211189, Computer Building, Jiulong Lake Campus (<a href="https://j.map.baidu.com/d6/Gugf">Maps</a>).<br>  
-  <a href="http://palm.seu.edu.cn/">PAttern Learning and Mining (PALM) Lab</a> <br>  
-  <a href="https://cse.seu.edu.cn/">School of Computer Science and Engineering</a> <br>  
-  <a href="http://www.njnu.edu.cn/">Southeast University (SEU)</a> <br>  
+  Can Bu (卜灿)<br>  
+  211189, College of Electrical and Automation Engineering, Xianlin Campus (<a href="https://j.map.baidu.com/fd/EeA">Maps</a>).<br>  
+  <a href="http://www.njnu.edu.cn/">Nanjing Normal University (NNU)</a> <br>  
   Nanjing, Jiangsu, China. <br>  
+
   <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=00acff&w=268&t=tt&d=Xit1o4P9tPO4V5F-vf13Il6mKflR-sERYSPiKcWoLcM&ct=000000&co=ffffff&cmo=f87d00&cmn=00ff10'></script>
   <!-- <a href="{{ site.url }}{{ site.baseurl }}/treasures"><font color="white">All failures are my treasures.</font></a> <br> --> 
 </div>
@@ -115,9 +114,9 @@ CV was last updated on June 30, 2022.<br>
  <p><em>{{ publi.authors }}</em></p>
 
  <p>{{ publi.venue }}</p>
- 
+
  <p>{{ publi.name }}</p>
- 
+
  <p>{{ publi.DOI }}</p>
 
  {% if publi.number_link == 1 %}
@@ -189,9 +188,9 @@ CV was last updated on June 30, 2022.<br>
  <p><em>{{ publi.authors }}</em></p>
 
  <p>{{ publi.venue }}</p>
- 
+
  <p>{{ publi.name }}</p>
- 
+
  <p>{{ publi.DOI }}</p>
 
  {% if publi.number_link == 1 %}
