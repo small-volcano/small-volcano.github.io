@@ -13,13 +13,15 @@ permalink: /
 
 ### **About <font color="#00d1ff">Me</font>**
 <!-- <a href ="https://small-volcano.github.io/allnews"> <img align="left" src="{{ site.url }}{{ site.baseurl }}/images/Eagle.png" class="img-responsive" width="35%"  /> </a> -->
-I come from Xuzhou, Jiangsu, China, where is known as 'Capital of Six Dynasties' and 'City of Stone'. I was a <del>script kiddie</del> and received the 
-B.S. degree from <a href="http://www.njtech.edu.cn/">Nanjing Tech University</a>, Nanjing, China, in 2019. I received the M.S degree with the supervision by <a href="http://leizhangnjnu.github.io">A.P Lei Zhang</a> 
-from <a href="http://www.njnu.edu.cn/">Nanjing Normal University</a>, Nanjing, China, in 2022. Now I am a Ph.D student and pursuing my degree in
-<a href="http://palm.seu.edu.cn/">PAttern Learning and Mining (PALM) Lab</a>, <a href="https://cse.seu.edu.cn/">School of Computer Science and Engineering</a>, <a href="https://www.seu.edu.cn/">Southeast University</a>,
-Nanjing, China, under the supervision by <a href="http://palm.seu.edu.cn/hxue/">Prof. Hui Xue</a>. 
-<br>
-My research interests including Ubiquitous Computing and Machine Learning.
+I come from Xuzhou, Jiangsu, China, where is known as 'Qiangu dragon enclave, a generation of emperor Township'. I am currently pursuing the M.S degree of Nanjing Normal University(NNU), Nanjing, China. Before that, I received bachelor's degree in Huaiyin Institute of Technology(HYIT).
+
+My research interests include:
+human activity recognition
+federated learning
+deep learning
+
+machine Learning<br>
+
 <!-- By the way, I must express my gratitude to <a href="https://sci-hub.se/alexandra">Alexandra Elbakyan</a>. The website built by her helps me much on paper writing and search.
 Everyone can find the papers they need <a href="https://sci-hub.st/">here [Sci-Hub]</a>. -->
 <br>
@@ -35,18 +37,8 @@ Everyone can find the papers they need <a href="https://sci-hub.st/">here [Sci-H
 #### **Skills**
 * Languages
     - Python (PyTorch, Jittor, Keras, TensorFlow).
-	- C#, LaTeX.
-	- SQL, Kotlin.
-
-#### **Hobbies**
-* Sports
-    - Cycling.
-	- Rope Skipping.
-
-* Recreation
-    - Drum Set.
-	- Card Game (OCG like Yo☆Gi☆Oh).
-	- Drawing. -->
+	- C++, LaTeX.
+	- SQL.
 
 
 ### **CV**
