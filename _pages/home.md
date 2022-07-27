@@ -316,10 +316,9 @@ CV was last updated on June 30, 2022.<br>
 <img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/kunwang.jpg"/>
 <p style="text-align: center;"> <a href="https://github.com/KennCoder7">Kun Wang</a></p>
 </div>
-
 <!-- <div style="width: 14%; float: left; min-width: 9em;">
-<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/zhenyuwang.jpg"/>
-<p style="text-align: center;"> <a href="https://github.com/Divine-w">Zhenyu Wang</a></p>
+<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/zhenyuwang.jpg"/
+
 </div> -->
 
 <div style="width: 14%; float: left; min-width: 9em;">
@@ -352,9 +351,10 @@ CV was last updated on June 30, 2022.<br>
 <p style="text-align: center;"> <a href="https://claydon-wang.github.io/">Shuoyuan Wang</a></p>
 </div>
 
-<!-- <div style="width: 14%; float: left; min-width: 9em;">
-<img loading="lazy" width="98%" height="98%" style="border-radius: 10%;" src="../images/partnet/zhixiangwang.jpg"/>
-<p style="text-align: center;"> <a href="https://claydon-wang.github.io/">Zhixiang Wang</a></p>
+
+
+
+
 </div> -->
 
 <div style="clear:both"></div>
