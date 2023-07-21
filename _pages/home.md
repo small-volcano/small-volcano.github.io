@@ -19,15 +19,14 @@ My research interests include:
 human activity recognition
 federated learning
 deep learning
-
 machine Learning<br>
 
 <!-- By the way, I must express my gratitude to <a href="https://sci-hub.se/alexandra">Alexandra Elbakyan</a>. The website built by her helps me much on paper writing and search.
 Everyone can find the papers they need <a href="https://sci-hub.st/">here [Sci-Hub]</a>. -->
 <br>
 
-### **Notice**
-在尝试联系我前请阅读这个<a href="https://small-volcano.io/document">文档</a>。
+<!-- ### **Notice**
+在尝试联系我前请阅读这个<a href="https://small-volcano.io/document">文档</a>。 -->
 <!-- <del>Select the part inside the arrow to reveal the hidden content.</del> -->
 
 <!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?w=128&d=Xit1o4P9tPO4V5F-vf13Il6mKflR-sERYSPiKcWoLcM"></script> -->
@@ -57,13 +56,13 @@ CV was last updated on June 30, 2022.<br>
 　＼二つ
 </pre> -->
 
-### **News**
+<!-- ### **News**
 {% for article in site.data.news limit:8 %}
 {{ article.date }} :
 <em>{{ article.headline }}</em>
 {% endfor %}
 #### <a href="{{ site.url }}{{ site.baseurl }}/allnews">[See All News]</a>
-#### <a href="#top">[Go Back to Top]</a>
+#### <a href="#top">[Go Back to Top]</a> -->
 
 </div>
 
