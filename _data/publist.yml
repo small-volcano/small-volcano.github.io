@@ -7,22 +7,22 @@
   DOI: 'DOI: 10.1109/TMC.2023.3271306'
   number_link: 2
   link1:
-    url: https://wenbohuang1002.github.io/papers/TMC-2023-4.pdf
+    url: https://small-volcano.github.io/papers/TMC-2023-4.pdf
     display: PDF
   link2:
-    url: https://github.com/wenbohuang1002/Channel-Selectivity-HAR
+    url: https://github.com/small-volcano/Channel-Selectivity-HAR
     display: Code (GitHub)
   # link3:
-  #   url: https://wenbohuang1002.github.io/404
+  #   url: https://small-volcano.github.io/404
   #   display: Code (In Jittor)
   # link4:
   #   url: https://ieeexplore.ieee.org/abstract/document/9774930
   #   display: Website Online
   # link5:
-  #   url: https://wenbohuang1002.github.io/404
+  #   url: https://small-volcano.github.io/404
   #   display: 中译版
   # link6:
-  #   url: https://wenbohuang1002.github.io/papers/bib/TMC-2022-1.txt
+  #   url: https://small-volcano.github.io/papers/bib/TMC-2022-1.txt
   #   display: Cite by bib
 
 - title: ProtoHAR: Prototype Guided Personalized Federated Learning for Human Activity Recognition  
@@ -34,22 +34,22 @@
   DOI: 'DOI: 10.1109/JBHI.2023.3275438'
   number_link: 2
   link1:
-    url: https://wenbohuang1002.github.io/papers/JBHI-2021-1.pdf
+    url: https://small-volcano.github.io/papers/JBHI-2021-1.pdf
     display: PDF
   link2:
-    url: https://github.com/wenbohuang1002/Channel-Selectivity-HAR
+    url: https://github.com/small-volcano/Channel-Selectivity-HAR
     display: Code (GitHub)
   # link3:
-  #   url: https://wenbohuang1002.github.io/404
+  #   url: https://small-volcano.github.io/404
   #   display: Code (In Jittor)
   # link4:
   #   url: https://ieeexplore.ieee.org/abstract/document/9465659
   #   display: Website Online
   # link5:
-  #   url: https://wenbohuang1002.github.io/404
+  #   url: https://small-volcano.github.io/404
   #   display: 中译版
   # link6:
-  #   url: https://wenbohuang1002.github.io/papers/bib/JBHI-2022-1.txt
+  #   url: https://small-volcano.github.io/papers/bib/JBHI-2022-1.txt
   #   display: Cite by bib
     
 # - title: Shallow Convolutional Neural Networks for Human Activity Recognition using Wearable Sensors
@@ -61,22 +61,22 @@
 #   DOI: 'DOI: 10.1109/TIM.2021.3091990'
 #   number_link: 6
 #   link1:
-#     url: https://wenbohuang1002.github.io/papers/TIM-2021-1.pdf
+#     url: https://small-volcano.github.io/papers/TIM-2021-1.pdf
 #     display: PDF
 #   link2: 
-#     url: https://github.com/wenbohuang1002/Shallow-HAR
+#     url: https://github.com/small-volcano/Shallow-HAR
 #     display: Code (GitHub)
 #   link3:
-#     url: https://wenbohuang1002.github.io/404
+#     url: https://small-volcano.github.io/404
 #     display: Code (In Jittor)
 #   link4:
 #     url: https://ieeexplore.ieee.org/abstract/document/9464302
 #     display: Website Online
 #   link5:
-#     url: https://wenbohuang1002.github.io/404
+#     url: https://small-volcano.github.io/404
 #     display: 中译版
 #   link6:
-#     url: https://wenbohuang1002.github.io/papers/bib/TIM-2021-1.txt
+#     url: https://small-volcano.github.io/papers/bib/TIM-2021-1.txt
 #     display: Cite by bib
     
 # - title: Deep Neural Networks for Sensor-Based Human Activity Recognition Using Selective Kernel Convolution
@@ -88,19 +88,19 @@
 #   DOI: 'DOI: 10.1109/TIM.2021.3102735'
 #   number_link: 5
 #   link1:
-#     url: https://wenbohuang1002.github.io/papers/TIM-2021-2.pdf
+#     url: https://small-volcano.github.io/papers/TIM-2021-2.pdf
 #     display: PDF
 #   link2:
-#     url: https://wenbohuang1002.github.io/404
+#     url: https://small-volcano.github.io/404
 #     display: Code (GitHub)
 #   link3:
 #     url: https://ieeexplore.ieee.org/document/9507456
 #     display: Website Online
 #   link4:
-#     url: https://wenbohuang1002.github.io/404
+#     url: https://small-volcano.github.io/404
 #     display: 中译版
 #   link5:
-#     url: https://wenbohuang1002.github.io/papers/bib/TIM-2021-2.txt
+#     url: https://small-volcano.github.io/papers/bib/TIM-2021-2.txt
 #     display: Cite by bib
 
 # - title: Deep Convolutional Networks with Tunable Speed-Accuracy Trade-off for Human Activity Recognition Using Wearables
@@ -112,19 +112,19 @@
 #   DOI: 'DOI: 10.1109/TIM.2021.3132088'
 #   number_link: 5
 #   link1:
-#     url: https://wenbohuang1002.github.io/papers/TIM-2021-3.pdf
+#     url: https://small-volcano.github.io/papers/TIM-2021-3.pdf
 #     display: PDF
 #   link2:
 #     url: https://github.com/Chauncey-Wang/Tunable-Speed-Accuracy-Trade-off-for-HAR
 #     display: Code (GitHub)
 #   link3:
-#     url: https://wenbohuang1002.github.io/404
+#     url: https://small-volcano.github.io/404
 #     display: Code (In Jittor)
 #   link4:
 #     url: https://ieeexplore.ieee.org/document/9632601
 #     display: Website Online
 #   link5:
-#     url: https://wenbohuang1002.github.io/papers/bib/TIM-2021-3.txt
+#     url: https://small-volcano.github.io/papers/bib/TIM-2021-3.txt
 #     display: Cite by bib
 
 # - title: Deformable Convolutional Networks for Multimodal Human Activity Recognition using Wearable Sensors
@@ -136,7 +136,7 @@
 #   DOI: 'DOI: 10.1109/TIM.2022.3158427'
 #   number_link: 4
 #   link1:
-#     url: https://wenbohuang1002.github.io/papers/TIM-2022-1.pdf
+#     url: https://small-volcano.github.io/papers/TIM-2022-1.pdf
 #     display: PDF
 #   link2:
 #     url: https://github.com/Chauncey-Wang/Tunable-Speed-Accuracy-Trade-off-for-HAR
@@ -145,7 +145,7 @@
 #     url: https://ieeexplore.ieee.org/document/9732352/
 #     display: Website Online
 #   link4:
-#     url: https://wenbohuang1002.github.io/papers/bib/TIM-2022-1.txt
+#     url: https://small-volcano.github.io/papers/bib/TIM-2022-1.txt
 #     display: Cite by bib
 
 # - title: Human Activity Recognition Using Wearable Sensors by Heterogeneous Convolutional Neural Networks
@@ -157,7 +157,7 @@
 #   DOI: 'DOI: 10.1016/J.ESWA.2022.116764'
 #   number_link: 3
 #   link1:
-#     url: https://wenbohuang1002.github.io/papers/ESWA-2022-1.pdf
+#     url: https://small-volcano.github.io/papers/ESWA-2022-1.pdf
 #     display: PDF
 #   link2:
 #     url: https://github.com/Chauncey-Wang/Tunable-Speed-Accuracy-Trade-off-for-HAR
@@ -166,5 +166,5 @@
 #     url: https://www.sciencedirect.com/science/article/abs/pii/S0957417422002299
 #     display: Website Online
 #   link4:
-#     url: https://wenbohuang1002.github.io/papers/bib/ESWA-2022-1.txt
+#     url: https://small-volcano.github.io/papers/bib/ESWA-2022-1.txt
 #     display: Cite by bib
