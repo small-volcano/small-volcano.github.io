@@ -1,7 +1,7 @@
 ---
-title: "Wenbo Huang (黄文博) - Publications"
+title: "Can Bu (卜灿) - Publications"
 layout: gridlay
-excerpt: "Wenbo Huang -- Publications."
+excerpt: "Can Bu -- Publications."
 sitemap: false
 permalink: /publications
 ---

@@ -19,15 +19,14 @@ My research interests include:
 human activity recognition
 federated learning
 deep learning
-
 machine Learning<br>
 
 <!-- By the way, I must express my gratitude to <a href="https://sci-hub.se/alexandra">Alexandra Elbakyan</a>. The website built by her helps me much on paper writing and search.
 Everyone can find the papers they need <a href="https://sci-hub.st/">here [Sci-Hub]</a>. -->
 <br>
 
-### **Notice**
-在尝试联系我前请阅读这个<a href="https://small-volcano.io/document">文档</a>。
+<!-- ### **Notice**
+在尝试联系我前请阅读这个<a href="https://small-volcano.io/document">文档</a>。 -->
 <!-- <del>Select the part inside the arrow to reveal the hidden content.</del> -->
 
 <!-- <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?w=128&d=Xit1o4P9tPO4V5F-vf13Il6mKflR-sERYSPiKcWoLcM"></script> -->
@@ -57,13 +56,13 @@ CV was last updated on June 30, 2022.<br>
 　＼二つ
 </pre> -->
 
-### **News**
+<!-- ### **News**
 {% for article in site.data.news limit:8 %}
 {{ article.date }} :
 <em>{{ article.headline }}</em>
 {% endfor %}
 #### <a href="{{ site.url }}{{ site.baseurl }}/allnews">[See All News]</a>
-#### <a href="#top">[Go Back to Top]</a>
+#### <a href="#top">[Go Back to Top]</a> -->
 
 </div>
 
@@ -236,7 +235,7 @@ CV was last updated on June 30, 2022.<br>
 #### <a href="#top">[Go Back to Top]</a>
 
 ### **Academic Related**
-
+<!-- 
 #### **Academic Service**
 * **Journal Reviewer**
 	- <a href="https://benthamscience.com/journals/current-computer-aided-drug-design">Current Computer-Aided Drug Design</a>, 2022.
@@ -253,21 +252,20 @@ CV was last updated on June 30, 2022.<br>
 * **Teaching Activity**
 	- Teaching assistant of Edu-By: The Time of Robotics - Artificial Intelligence and Social Change (博雅课：机器人时代 - 人工智能与社会变革), Fall 2021, Nanjing Normal University.
 	- Teaching assistant of Artificial Intelligence and Big Data, Spring 2022, Nanjing Normal University.
-	- Security Administrator for the Institute of Information and Control Technologies, School of Electric and Autumation Engineerning, 2020-2021, Nanjing Normal University.
+	- Security Administrator for the Institute of Information and Control Technologies, School of Electric and Autumation Engineerning, 2020-2021, Nanjing Normal University. -->
 
 #### **Award & Honor**
 * **Scholarship**
-    - National Scholarship for Postgraduate Students (rank 1, total 65), 2021, The Chinese Ministry of Education (MOE), <a href="https://wenbohuang1002.github.io/papers/2021national.pdf">Certificate No.SSY202120653</a>.
-	- First-class Academic Scholarship (rank 6, total 65), 2021, Nanjing Normal University.
+    - National Scholarship, Ministry of Education of China, 2019 (Top 0.2% in HYIT).
 
 * **Competition** 
-    - Provincial Third Prize, The 17th 'Challenge Cup' National University Student Extracurricular Academic Science and 
-	Technology Works Competition 'Science and Technology' Special Competition, 2021, Jiangsu Province/Central Committee of the Communist Youth League/China Association for Science and Technology/The Chinese Ministry of Education (MOE)
-	/Chinese Academy of Social Sciences/National Federation of Students.
+    - The 18th Huawei Cup Graduate Student Mathematical Modeling Competition, 2021,Third Prize
+    - The 19th Huawei Cup Graduate Student Mathematical Modeling Competition, 2022,Third Prize
 
-* **Honor**
-	- Outstanding graduate, 2022, Nanjing Normal University.
-	- Outstanding postgraduate (rank 3, total 31), 2021, Nanjing Normal University, <a href="https://wenbohuang1002.github.io/papers/2021outstanding.pdf">Certificate</a>.
+<!-- * **Honor**
+	- National Scholarship, Ministry of Education of China, 2019 (Top 0.2% in HYIT)
+	- The 18th Huawei Cup Graduate Student Mathematical Modeling Competition, 2021,Third Prize
+    - The 19th Huawei Cup Graduate Student Mathematical Modeling Competition, 2022,Third Prize -->
 
 
 #### <a href="#top">[Go Back to Top]</a>
