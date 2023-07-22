@@ -1,4 +1,4 @@
-- title: ' A Collaborative Compression Scheme for Fast Activity Recognition on Mobile Devices Via Global Compression Ratio Decision'
+- title: ' A Collaborative Compression Scheme for Fast Activity Recognition on Mobile Devices Via Global Compression Ratio Decision'
   image: 22_TMC_CE.png
   description: We provide an alternative called Channel Equalization in this paper to reactivate these inhibited channels by performing whitening or decorrelation operation, which compels all channels to contribute more or less to feature representation.
   authors:  Junjie Liang, Lei Zhang*, Chaolei Han, <strong>Can Bu</strong>, Hao Wu and Aiguo Song
@@ -39,132 +39,132 @@
   link2:
     url: https://github.com/small-volcano/Channel-Selectivity-HAR
     display: Code (GitHub)
-  # link3:
-  #   url: https://small-volcano.github.io/404
-  #   display: Code (In Jittor)
-  # link4:
-  #   url: https://ieeexplore.ieee.org/abstract/document/9465659
-  #   display: Website Online
-  # link5:
-  #   url: https://small-volcano.github.io/404
-  #   display: 中译版
-  # link6:
-  #   url: https://small-volcano.github.io/papers/bib/JBHI-2022-1.txt
-  #   display: Cite by bib
+  link3:
+    url: https://small-volcano.github.io/404
+    display: Code (In Jittor)
+  link4:
+    url: https://ieeexplore.ieee.org/abstract/document/9465659
+    display: Website Online
+  link5:
+    url: https://small-volcano.github.io/404
+    display: 中译版
+  link6:
+    url: https://small-volcano.github.io/papers/bib/JBHI-2022-1.txt
+    display: Cite by bib
     
-# - title: Shallow Convolutional Neural Networks for Human Activity Recognition using Wearable Sensors
-#   image: 21_TIM_C3.png
-#   description: We pay more attention to Cross-channel-communication and apply it on CNN. This method can make shallow CNNs have a similar performance with deep CNNs when classify sensor singal.
-#   authors: <strong>Can Bu</strong>, Lei Zhang*, Wenbin Gao , Fuhong Min and Jun He
-#   venue: TIM 2021-1 <font color="red">(Journal Paper)</font>
-#   name: IEEE Transactions on Instrumentation and Measurement (CIS Rank T1, CAA Rank B, IF=5.332)
-#   DOI: 'DOI: 10.1109/TIM.2021.3091990'
-#   number_link: 6
-#   link1:
-#     url: https://small-volcano.github.io/papers/TIM-2021-1.pdf
-#     display: PDF
-#   link2: 
-#     url: https://github.com/small-volcano/Shallow-HAR
-#     display: Code (GitHub)
-#   link3:
-#     url: https://small-volcano.github.io/404
-#     display: Code (In Jittor)
-#   link4:
-#     url: https://ieeexplore.ieee.org/abstract/document/9464302
-#     display: Website Online
-#   link5:
-#     url: https://small-volcano.github.io/404
-#     display: 中译版
-#   link6:
-#     url: https://small-volcano.github.io/papers/bib/TIM-2021-1.txt
-#     display: Cite by bib
+- title: Shallow Convolutional Neural Networks for Human Activity Recognition using Wearable Sensors
+  image: 21_TIM_C3.png
+  description: We pay more attention to Cross-channel-communication and apply it on CNN. This method can make shallow CNNs have a similar performance with deep CNNs when classify sensor singal.
+  authors: <strong>Can Bu</strong>, Lei Zhang*, Wenbin Gao , Fuhong Min and Jun He
+  venue: TIM 2021-1 <font color="red">(Journal Paper)</font>
+  name: IEEE Transactions on Instrumentation and Measurement (CIS Rank T1, CAA Rank B, IF=5.332)
+  DOI: 'DOI: 10.1109/TIM.2021.3091990'
+  number_link: 6
+  link1:
+    url: https://small-volcano.github.io/papers/TIM-2021-1.pdf
+    display: PDF
+  link2: 
+    url: https://github.com/small-volcano/Shallow-HAR
+    display: Code (GitHub)
+  link3:
+    url: https://small-volcano.github.io/404
+    display: Code (In Jittor)
+  link4:
+    url: https://ieeexplore.ieee.org/abstract/document/9464302
+    display: Website Online
+  link5:
+    url: https://small-volcano.github.io/404
+    display: 中译版
+  link6:
+    url: https://small-volcano.github.io/papers/bib/TIM-2021-1.txt
+    display: Cite by bib
     
-# - title: Deep Neural Networks for Sensor-Based Human Activity Recognition Using Selective Kernel Convolution
-#   image: 21_TIM_SK1.png
-#   description: We use Selective Kernal Convolution on CNN. This method improves the performance of deep neural networks.
-#   authors: Wenbin Gao, Lei Zhang*, <strong>Can Bu</strong>, Fuhong Min, Jun He and Aiguo Song
-#   venue: TIM 2021-2 <font color="red">(Journal Paper)</font>
-#   name: IEEE Transactions on Instrumentation and Measurement (CIS Rank T1, CAA Rank B, IF=5.332)
-#   DOI: 'DOI: 10.1109/TIM.2021.3102735'
-#   number_link: 5
-#   link1:
-#     url: https://small-volcano.github.io/papers/TIM-2021-2.pdf
-#     display: PDF
-#   link2:
-#     url: https://small-volcano.github.io/404
-#     display: Code (GitHub)
-#   link3:
-#     url: https://ieeexplore.ieee.org/document/9507456
-#     display: Website Online
-#   link4:
-#     url: https://small-volcano.github.io/404
-#     display: 中译版
-#   link5:
-#     url: https://small-volcano.github.io/papers/bib/TIM-2021-2.txt
-#     display: Cite by bib
+- title: Deep Neural Networks for Sensor-Based Human Activity Recognition Using Selective Kernel Convolution
+  image: 21_TIM_SK1.png
+  description: We use Selective Kernal Convolution on CNN. This method improves the performance of deep neural networks.
+  authors: Wenbin Gao, Lei Zhang*, <strong>Can Bu</strong>, Fuhong Min, Jun He and Aiguo Song
+  venue: TIM 2021-2 <font color="red">(Journal Paper)</font>
+  name: IEEE Transactions on Instrumentation and Measurement (CIS Rank T1, CAA Rank B, IF=5.332)
+  DOI: 'DOI: 10.1109/TIM.2021.3102735'
+  number_link: 5
+  link1:
+    url: https://small-volcano.github.io/papers/TIM-2021-2.pdf
+    display: PDF
+  link2:
+    url: https://small-volcano.github.io/404
+    display: Code (GitHub)
+  link3:
+    url: https://ieeexplore.ieee.org/document/9507456
+    display: Website Online
+  link4:
+    url: https://small-volcano.github.io/404
+    display: 中译版
+  link5:
+    url: https://small-volcano.github.io/papers/bib/TIM-2021-2.txt
+    display: Cite by bib
 
-# - title: Deep Convolutional Networks with Tunable Speed-Accuracy Trade-off for Human Activity Recognition Using Wearables
-#   image: 21_TIM_TSAT.png
-#   description: We use Tunable Speed-Accuracy Trade-off on CNN. This method can complete Human Activity Recognition tasks more effectiviely.
-#   authors: Xing Wang, Lei Zhang*, <strong>Can Bu</strong>, Shuoyuan Wang, Jun He and Aiguo Song
-#   venue: TIM 2021-3 <font color="red">(Journal Paper)</font>
-#   name: IEEE Transactions on Instrumentation and Measurement (CIS Rank T1, CAA Rank B, IF=5.332)
-#   DOI: 'DOI: 10.1109/TIM.2021.3132088'
-#   number_link: 5
-#   link1:
-#     url: https://small-volcano.github.io/papers/TIM-2021-3.pdf
-#     display: PDF
-#   link2:
-#     url: https://github.com/Chauncey-Wang/Tunable-Speed-Accuracy-Trade-off-for-HAR
-#     display: Code (GitHub)
-#   link3:
-#     url: https://small-volcano.github.io/404
-#     display: Code (In Jittor)
-#   link4:
-#     url: https://ieeexplore.ieee.org/document/9632601
-#     display: Website Online
-#   link5:
-#     url: https://small-volcano.github.io/papers/bib/TIM-2021-3.txt
-#     display: Cite by bib
+- title: Deep Convolutional Networks with Tunable Speed-Accuracy Trade-off for Human Activity Recognition Using Wearables
+  image: 21_TIM_TSAT.png
+  description: We use Tunable Speed-Accuracy Trade-off on CNN. This method can complete Human Activity Recognition tasks more effectiviely.
+  authors: Xing Wang, Lei Zhang*, <strong>Can Bu</strong>, Shuoyuan Wang, Jun He and Aiguo Song
+  venue: TIM 2021-3 <font color="red">(Journal Paper)</font>
+  name: IEEE Transactions on Instrumentation and Measurement (CIS Rank T1, CAA Rank B, IF=5.332)
+  DOI: 'DOI: 10.1109/TIM.2021.3132088'
+  number_link: 5
+  link1:
+    url: https://small-volcano.github.io/papers/TIM-2021-3.pdf
+    display: PDF
+  link2:
+    url: https://github.com/Chauncey-Wang/Tunable-Speed-Accuracy-Trade-off-for-HAR
+    display: Code (GitHub)
+  link3:
+    url: https://small-volcano.github.io/404
+    display: Code (In Jittor)
+  link4:
+    url: https://ieeexplore.ieee.org/document/9632601
+    display: Website Online
+  link5:
+    url: https://small-volcano.github.io/papers/bib/TIM-2021-3.txt
+    display: Cite by bib
 
-# - title: Deformable Convolutional Networks for Multimodal Human Activity Recognition using Wearable Sensors
-#   image: 22_TIM_DCX.png
-#   description: Deformable Convolutional Networks for Multimodal Human Activity Recognition.
-#   authors: Suige Xu, Lei Zhang*, <strong>Can Bu</strong>, Hao Wu and Aiguo Song
-#   venue: TIM 2022-1 <font color="red">(Journal Paper)</font>
-#   name: IEEE Transactions on Instrumentation and Measurement (CIS Rank T1, CAA Rank B, IF=5.332)
-#   DOI: 'DOI: 10.1109/TIM.2022.3158427'
-#   number_link: 4
-#   link1:
-#     url: https://small-volcano.github.io/papers/TIM-2022-1.pdf
-#     display: PDF
-#   link2:
-#     url: https://github.com/Chauncey-Wang/Tunable-Speed-Accuracy-Trade-off-for-HAR
-#     display: Code (GitHub)
-#   link3:
-#     url: https://ieeexplore.ieee.org/document/9732352/
-#     display: Website Online
-#   link4:
-#     url: https://small-volcano.github.io/papers/bib/TIM-2022-1.txt
-#     display: Cite by bib
+- title: Deformable Convolutional Networks for Multimodal Human Activity Recognition using Wearable Sensors
+  image: 22_TIM_DCX.png
+  description: Deformable Convolutional Networks for Multimodal Human Activity Recognition.
+  authors: Suige Xu, Lei Zhang*, <strong>Can Bu</strong>, Hao Wu and Aiguo Song
+  venue: TIM 2022-1 <font color="red">(Journal Paper)</font>
+  name: IEEE Transactions on Instrumentation and Measurement (CIS Rank T1, CAA Rank B, IF=5.332)
+  DOI: 'DOI: 10.1109/TIM.2022.3158427'
+  number_link: 4
+  link1:
+    url: https://small-volcano.github.io/papers/TIM-2022-1.pdf
+    display: PDF
+  link2:
+    url: https://github.com/Chauncey-Wang/Tunable-Speed-Accuracy-Trade-off-for-HAR
+    display: Code (GitHub)
+  link3:
+    url: https://ieeexplore.ieee.org/document/9732352/
+    display: Website Online
+  link4:
+    url: https://small-volcano.github.io/papers/bib/TIM-2022-1.txt
+    display: Cite by bib
 
-# - title: Human Activity Recognition Using Wearable Sensors by Heterogeneous Convolutional Neural Networks
-#   image: 22_ESWA_HC.png
-#   description: We use Heterogeneous Convolutional Neural Networkse on Human Activity Recognition tasks.
-#   authors: Chaolei Han, Lei Zhang*, Yin Tang, <strong>Can Bu</strong>, Fuhong Min and Jun He
-#   venue: ESWA 2022-1 <font color="red">(Journal Paper)</font>
-#   name: Elesvier Expert Systems with Applications (CCF Rank C, IF=8.665)
-#   DOI: 'DOI: 10.1016/J.ESWA.2022.116764'
-#   number_link: 3
-#   link1:
-#     url: https://small-volcano.github.io/papers/ESWA-2022-1.pdf
-#     display: PDF
-#   link2:
-#     url: https://github.com/Chauncey-Wang/Tunable-Speed-Accuracy-Trade-off-for-HAR
-#     display: Code (GitHub)
-#   link3:
-#     url: https://www.sciencedirect.com/science/article/abs/pii/S0957417422002299
-#     display: Website Online
-#   link4:
-#     url: https://small-volcano.github.io/papers/bib/ESWA-2022-1.txt
-#     display: Cite by bib
+- title: Human Activity Recognition Using Wearable Sensors by Heterogeneous Convolutional Neural Networks
+  image: 22_ESWA_HC.png
+  description: We use Heterogeneous Convolutional Neural Networkse on Human Activity Recognition tasks.
+  authors: Chaolei Han, Lei Zhang*, Yin Tang, <strong>Can Bu</strong>, Fuhong Min and Jun He
+  venue: ESWA 2022-1 <font color="red">(Journal Paper)</font>
+  name: Elesvier Expert Systems with Applications (CCF Rank C, IF=8.665)
+  DOI: 'DOI: 10.1016/J.ESWA.2022.116764'
+  number_link: 3
+  link1:
+    url: https://small-volcano.github.io/papers/ESWA-2022-1.pdf
+    display: PDF
+  link2:
+    url: https://github.com/Chauncey-Wang/Tunable-Speed-Accuracy-Trade-off-for-HAR
+    display: Code (GitHub)
+  link3:
+    url: https://www.sciencedirect.com/science/article/abs/pii/S0957417422002299
+    display: Website Online
+  link4:
+    url: https://small-volcano.github.io/papers/bib/ESWA-2022-1.txt
+    display: Cite by bib
