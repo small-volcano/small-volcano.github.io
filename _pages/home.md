@@ -73,13 +73,13 @@ CV was last updated on June 30, 2022.<br>
   </ul>
 
   <!-- <br clear="all" /> -->
-
+<!-- 
   Can Bu (卜灿)<br>  
   211189, College of Electrical and Automation Engineering, Xianlin Campus (<a href="https://j.map.baidu.com/fd/EeA">Maps</a>).<br>  
   <a href="http://www.njnu.edu.cn/">Nanjing Normal University (NNU)</a> <br>  
   Nanjing, Jiangsu, China. <br>  
 
-  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=00acff&w=268&t=tt&d=Xit1o4P9tPO4V5F-vf13Il6mKflR-sERYSPiKcWoLcM&ct=000000&co=ffffff&cmo=f87d00&cmn=00ff10'></script>
+  <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=00acff&w=268&t=tt&d=Xit1o4P9tPO4V5F-vf13Il6mKflR-sERYSPiKcWoLcM&ct=000000&co=ffffff&cmo=f87d00&cmn=00ff10'></script> -->
   <!-- <a href="{{ site.url }}{{ site.baseurl }}/treasures"><font color="white">All failures are my treasures.</font></a> <br> --> 
 </div>
 
